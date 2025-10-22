@@ -6,6 +6,9 @@ const main= document.querySelector("main");
 
 //initial setup///
 
+
+
+
 const setValues =(FontSize,BackgroundColor)=>{
     fontSize.value=FontSize;
     bgColor.value=BackgroundColor;
